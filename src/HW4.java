@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Created by oksanakonotop on 14.04.2016.
  */
 public class HW4 {
-    /*2.5. Вводим число с плавающей точкой с консоли, и проверяем лежит ли оно в диапазоне от 0 до 1
+    /*Вводим число с плавающей точкой с консоли, и проверяем лежит ли оно в диапазоне от 0 до 1
             */
     public static class ABC {
         public static void main(String[] args) {
